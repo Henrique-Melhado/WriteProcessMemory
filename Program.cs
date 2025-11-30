@@ -44,7 +44,7 @@ namespace ReadWriteProcessMemory
             catch (ProcessNotFoundException ex)
             {
                 Console.WriteLine($"Error: {ex.Message}");
-                Console.WriteLine("Please ensure the target process ('eurotrucks2') is running.");
+                Console.WriteLine("Please ensure the target process ('PROCESSNAME') is running.");
             }
             catch (MemoryOperationException ex)
             {
