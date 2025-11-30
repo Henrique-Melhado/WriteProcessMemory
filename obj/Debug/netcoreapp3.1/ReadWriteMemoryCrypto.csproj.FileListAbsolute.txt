@@ -1,0 +1,14 @@
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\bin\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.exe
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\bin\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.deps.json
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\bin\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.runtimeconfig.json
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\bin\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.runtimeconfig.dev.json
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\bin\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.dll
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\bin\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.pdb
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\obj\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.csproj.AssemblyReference.cache
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\obj\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\obj\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.AssemblyInfoInputs.cache
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\obj\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.AssemblyInfo.cs
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\obj\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.csproj.CoreCompileInputs.cache
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\obj\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.dll
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\obj\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.pdb
+D:\Projects\Trainer Hack Tools\ReadWriteMemoryCrypto\obj\Debug\netcoreapp3.1\ReadWriteMemoryCrypto.genruntimeconfig.cache
