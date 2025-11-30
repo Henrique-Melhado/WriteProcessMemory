@@ -45,11 +45,3 @@ WriteProcessMemoryDemo.exe --pid 1234 --address 0x00FFEE --data "..."
 #### Contribuição
 
 Contribuições são bem-vindas. Abra issues para bugs ou propostas de melhorias e envie pull requests com descrições claras das mudanças.
-
-#### Licença
-
-Adicione aqui a licença do projeto (por exemplo MIT, Apache-2.0) conforme aplicável.
-
-#### Contato
-
-Abra uma issue no repositório para dúvidas ou suporte técnico.
